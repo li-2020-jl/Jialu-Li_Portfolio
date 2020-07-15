@@ -10,3 +10,6 @@ I hope to learn effective ways to use compelling data to present and justify my 
 # Portfolio
 Here's where all of my cool data visualizations will go!
 link to live site https://li-2020-jl.github.io/Jialu-Li_Portfolio/
+
+
+[Assignment 2] /dataviz2.md
