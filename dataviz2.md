@@ -32,4 +32,4 @@ The second visualization works very well in comparing the trend of debt fluctuat
 The third visualization I made, similar to the first one, is to represent a comparison of debt between countries in a single year. The gradient of color is meant to represent the amount of debt one country carries. Other than the comparison, the map also tells the viewer a rough idea of the regions that the countries located in the world.
 
 
-link to live site https://li-2020-jl.github.io/Jialu-Li_Portfolio/
+[Back to Home Page](/README.md)
