@@ -14,4 +14,4 @@ link to live site https://li-2020-jl.github.io/Jialu-Li_Portfolio/
 
 [Assignment 2](/dataviz2.md)
 
-[Assignment 3 and 4](/dataviz3&4.md)
+[Assignment 3 and 4](/dataviz3.md)
