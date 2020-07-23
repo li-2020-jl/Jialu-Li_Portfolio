@@ -6,7 +6,7 @@
 ## Intro
 
 ### Article:[America begins easing restrictions](https://www.economist.com/united-states/2020/04/23/america-begins-easing-restrictions)
-##### -- The country is adopting a half-in, half-out approach to lockdowns
+-- The country is adopting a half-in, half-out approach to lockdowns
 
 #### Reason for choosing:
 I picked this article because the chart is very unique. It is a combination of two charts consisting of many information. Almost showing gradual changing progress. It also minimalized the U.S. map into equally large cubes of states for the audiences to compare and contrast.
@@ -66,12 +66,15 @@ the first redesign I chose to use two charts showing before and after the easing
 
 ##### Feedback Received:
 * Classmate 1: 
-⋅⋅⋅I think you can emphasize the differences between before and after. It is a bit hard for me to notice the difference between these two forms. Or find a way to help people notice the differences
-⋅⋅⋅I prefer a different color (like the color in the redesign 3) to notate the states planned to easing restrictions.
+
+  I think you can emphasize the differences between before and after. It is a bit hard for me to notice the difference between these two forms. Or find a way to help people notice the differences.
+
+  I prefer a different color (like the color in the redesign 3) to notate the states planned to easing restrictions.
 
 * Classmate 2: 
-⋅⋅⋅Improvement: It will be better the final design can be an animation? Otherwise, I feel confused when you have the "state planned to ..." in legend but no such elements in the visualization.
-⋅⋅⋅I think this visualization is good that the slash texture kind of represents the process of "dissolve", where every state reopens again, from dark blue to gray.
+  Improvement: It will be better the final design can be an animation? Otherwise, I feel confused when you have the "state planned to ..." in legend but no such elements in the visualization.
+
+  I think this visualization is good that the slash texture kind of represents the process of "dissolve", where every state reopens again, from dark blue to gray.
 
 #### Redesign 2:
 the second redesign really puts the emphasis on showing how many states are participating in the easing restriction. For this purpose, I only show states as having restrictions vs. no restrictions. Then I use color with a similar value of the no restriction gray and contrasting hue with the restriction blue to represent the states that have already or planned to take action. 
@@ -80,7 +83,8 @@ the second redesign really puts the emphasis on showing how many states are part
 
 ##### Feedback Received:
 * Classmate 1: 
-⋅⋅⋅This is one is pretty straightforward. I can get the info/estimation of how many states are going to ease the restriction quickly. One concern is the accessibility issue that the contrast between the yellow and gray might not strong enough for some people with disability.
+  
+  This is one is pretty straightforward. I can get the info/estimation of how many states are going to ease the restriction quickly. One concern is the accessibility issue that the contrast between the yellow and gray might not strong enough for some people with disability.
 
 #### Redesign 3:
 This is to tell a more convincing story of how many states will take the action of easing their restrictions by using side-by-side comparison.
@@ -90,13 +94,25 @@ This is to tell a more convincing story of how many states will take the action 
 
 ##### Feedback Received:
 * Classmate 1: 
-⋅⋅⋅I prefer this one than the redesign 2 because the contrast between two pics makes me get the estimation more quickly.
-Classmate 2: 
-⋅⋅⋅I like this one most because the strongly difference between these two charts can help me think the story behind and I can intuitively realize that the a lot of states is planning to easing restrictions
+ 
+  I prefer this one than the redesign 2 because the contrast between two pics makes me get the estimation more quickly.
+
+* Classmate 2: 
+  
+  I like this one most because the strongly difference between these two charts can help me think the story behind and I can intuitively realize that the a lot of states is planning to easing restrictions.
 
 
-##### Feedback Received:
+## My Solution
+I chose to finalize the redesign 3 as it received the most appreciation. 
 
+I first scraped out the data from the original article:
+
+<img src="scraped out data.png" width="500" />
+
+For the finalized chart redesign, I use Flourish Studio as the visualization tool. I chose a color palette with stronger contrast to address the feedbacks received. I also hind the state names as the charts are meant to show a overall. As this decision being made, viewer can always access detailed information hovering their mouse on a shapes.
+
+<div class="flourish-embed flourish-map" data-src="visualisation/3259130" data-url="https://flo.uri.sh/visualisation/3259130/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+<div class="flourish-embed flourish-map" data-src="visualisation/3262532" data-url="https://flo.uri.sh/visualisation/3262532/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 ## Summary
 
