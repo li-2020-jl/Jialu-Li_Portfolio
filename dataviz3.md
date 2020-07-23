@@ -101,20 +101,21 @@ This is to tell a more convincing story of how many states will take the action 
   
   I like this one most because the strongly difference between these two charts can help me think the story behind and I can intuitively realize that the a lot of states is planning to easing restrictions.
 
+## Summary
+Considering individuals with visual disabilities is a very important note for me, that I kept weighing look over function when deciding on the color palette of my design. Furthermore, it is interesting that to see the feedbacks proves using before and after charts is an effective way to represent "change". Learned from the feedbacks for "redesign 1", I realize that putting too much information into the chart creates confusion easily.
+
 
 ## My Solution
-I chose to finalize the redesign 3 as it received the most appreciation. 
+I chose to finalize the “redesign 3” as it received the most appreciation and it is my personal favorite. 
 
-I first scraped out the data from the original article:
+I first scraped out the data from the original article and uploaded the data into Flourish Studio:
 
 <img src="scraped out data.png" width="500" />
 
-For the finalized chart redesign, I use Flourish Studio as the visualization tool. I chose a color palette with stronger contrast to address the feedbacks received. The warm orange tone represents activeness, which represents few to no restrictions. The cool blue hue represents stillness, which represents comprehensive to some restrications. I also hind the state names as the charts are meant to show a overall. As this decision being made, viewer can always access detailed information hovering their mouse on a shapes.
+As mentioned above, I use Flourish Studio as a visualization tool. I chose a color palette with a stronger contrast to address the feedback received. The warm orange tone represents activeness, which represents few to no restrictions. The cool blue hue represents stillness, which represents comprehensive to some restrictions. I also have a minimalist approach as the mean purpose of the chart is to show an overall view of the country. I hind the state names and detailed description of their restriction policy into popup windows. As this decision is made, the viewer can always access detailed information by hovering their mouse on the shapes representing the states.
 
 <div class="flourish-embed flourish-map" data-src="visualisation/3259130" data-url="https://flo.uri.sh/visualisation/3259130/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-map" data-src="visualisation/3262532" data-url="https://flo.uri.sh/visualisation/3262532/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-
-## Summary
 
 
 
