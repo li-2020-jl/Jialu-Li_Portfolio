@@ -5,9 +5,8 @@
 
 ## Intro
 
-### Article Title: America begins easing restrictions
-#### The country is adopting a half-in, half-out approach to lockdowns
-[Article link](https://www.economist.com/united-states/2020/04/23/america-begins-easing-restrictions)
+### Article:[America begins easing restrictions](https://www.economist.com/united-states/2020/04/23/america-begins-easing-restrictions)
+##### -- The country is adopting a half-in, half-out approach to lockdowns
 
 #### Reason for choosing:
 I picked this article because the chart is very unique. It is a combination of two charts consisting of many information. Almost showing gradual changing progress. It also minimalized the U.S. map into equally large cubes of states for the audiences to compare and contrast.
