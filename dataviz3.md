@@ -58,6 +58,24 @@ Overall, the method is effective in that it covers all the important aspects of 
 ### Intro
 For this part of the assignment I chose to use hand drawing to create wireframes of my three redesign ideas.
 
+#### redesign 1:
+the first redesign I chose to use two charts showing before and after the easing on restriction. In this way, the viewers will have a better understanding of the big picture by comparing how the easing may appear to look like. I use blue color with closer hue and saturation to represent the strict restriction and some restrictions state so that the contrast between restriction and none restriction becomes stronger. This emphasis on the restriction vs. none restriction echos with the article that the outcome is unpredictable because those states are right next to each other. 
+
+<img src="redesign 1_1.png" width="300" />
+<img src="redesign 1_2.png" width="300" />
+
+#### redesign 2:
+the second redesign really puts the emphasis on showing how many states are participating in the easing restriction. For this purpose, I only show states as having restrictions vs. no restrictions. Then I use color with a similar value of the no restriction gray and contrasting hue with the restriction blue to represent the states that have already or planned to take action. 
+
+<img src="redesign 2.png" width="300" />
+
+#### redesign 3:
+This is to tell a more convincing story of how many states will take the action of easing their restrictions by using side-by-side comparison.
+
+<img src="redesign 2.png" width="300" />
+<img src="redesign 3_1.png" width="300" />
+
+
 ## Summary
 
 
