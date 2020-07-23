@@ -109,7 +109,7 @@ I first scraped out the data from the original article:
 
 <img src="scraped out data.png" width="500" />
 
-For the finalized chart redesign, I use Flourish Studio as the visualization tool. I chose a color palette with stronger contrast to address the feedbacks received. I also hind the state names as the charts are meant to show a overall. As this decision being made, viewer can always access detailed information hovering their mouse on a shapes.
+For the finalized chart redesign, I use Flourish Studio as the visualization tool. I chose a color palette with stronger contrast to address the feedbacks received. The warm orange tone represents activeness, which represents few to no restrictions. The cool blue hue represents stillness, which represents comprehensive to some restrications. I also hind the state names as the charts are meant to show a overall. As this decision being made, viewer can always access detailed information hovering their mouse on a shapes.
 
 <div class="flourish-embed flourish-map" data-src="visualisation/3259130" data-url="https://flo.uri.sh/visualisation/3259130/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-map" data-src="visualisation/3262532" data-url="https://flo.uri.sh/visualisation/3262532/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
