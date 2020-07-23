@@ -90,8 +90,8 @@ the second redesign really puts the emphasis on showing how many states are part
 #### Redesign 3:
 This is to tell a more convincing story of how many states will take the action of easing their restrictions by using side-by-side comparison.
 
-<img src="redesign 2.png" width="500" />
 <img src="redesign 3_1.png" width="500" />
+<img src="redesign 2.png" width="500" />
 
 ##### Feedback Received:
 * Classmate 1: 
