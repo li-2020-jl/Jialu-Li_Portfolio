@@ -72,6 +72,7 @@ the first redesign I chose to use two charts showing before and after the easing
   I prefer a different color (like the color in the redesign 3) to notate the states planned to easing restrictions.
 
 * Classmate 2: 
+  
   Improvement: It will be better the final design can be an animation? Otherwise, I feel confused when you have the "state planned to ..." in legend but no such elements in the visualization.
 
   I think this visualization is good that the slash texture kind of represents the process of "dissolve", where every state reopens again, from dark blue to gray.
@@ -116,6 +117,9 @@ As mentioned above, I use Flourish Studio as a visualization tool. I chose a col
 
 <div class="flourish-embed flourish-map" data-src="visualisation/3259130" data-url="https://flo.uri.sh/visualisation/3259130/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 <div class="flourish-embed flourish-map" data-src="visualisation/3262532" data-url="https://flo.uri.sh/visualisation/3262532/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+
+
 
 
 
