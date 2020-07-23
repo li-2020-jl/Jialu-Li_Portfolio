@@ -58,7 +58,7 @@ Overall, the method is effective in that it covers all the important aspects of 
 ### Intro
 For this part of the assignment I chose to use hand drawing to create wireframes of my three redesign ideas.
 
-#### redesign 1:
+#### Redesign 1:
 the first redesign I chose to use two charts showing before and after the easing on restriction. In this way, the viewers will have a better understanding of the big picture by comparing how the easing may appear to look like. I use blue color with closer hue and saturation to represent the strict restriction and some restrictions state so that the contrast between restriction and none restriction becomes stronger. This emphasis on the restriction vs. none restriction echos with the article that the outcome is unpredictable because those states are right next to each other. 
 
 <img src="redesign 1_1.png" width="500" />
@@ -66,23 +66,23 @@ the first redesign I chose to use two charts showing before and after the easing
 
 ##### Feedback Received:
 * Classmate 1: 
-⋅⋅* I think you can emphasize the differences between before and after. It is a bit hard for me to notice the difference between these two forms. Or find a way to help people notice the differences
-⋅⋅* I prefer a different color (like the color in the redesign 3) to notate the states planned to easing restrictions.
+⋅⋅⋅I think you can emphasize the differences between before and after. It is a bit hard for me to notice the difference between these two forms. Or find a way to help people notice the differences
+⋅⋅⋅I prefer a different color (like the color in the redesign 3) to notate the states planned to easing restrictions.
 
 * Classmate 2: 
-⋅⋅* Improvement: It will be better the final design can be an animation? Otherwise, I feel confused when you have the "state planned to ..." in legend but no such elements in the visualization.
-⋅⋅* I think this visualization is good that the slash texture kind of represents the process of "dissolve", where every state reopens again, from dark blue to gray.
+⋅⋅⋅Improvement: It will be better the final design can be an animation? Otherwise, I feel confused when you have the "state planned to ..." in legend but no such elements in the visualization.
+⋅⋅⋅I think this visualization is good that the slash texture kind of represents the process of "dissolve", where every state reopens again, from dark blue to gray.
 
-#### redesign 2:
+#### Redesign 2:
 the second redesign really puts the emphasis on showing how many states are participating in the easing restriction. For this purpose, I only show states as having restrictions vs. no restrictions. Then I use color with a similar value of the no restriction gray and contrasting hue with the restriction blue to represent the states that have already or planned to take action. 
 
 <img src="redesign 2.png" width="500" />
 
 ##### Feedback Received:
 * Classmate 1: 
-⋅⋅* This is one is pretty straightforward. I can get the info/estimation of how many states are going to ease the restriction quickly. One concern is the accessibility issue that the contrast between the yellow and gray might not strong enough for some people with disability.
+⋅⋅⋅This is one is pretty straightforward. I can get the info/estimation of how many states are going to ease the restriction quickly. One concern is the accessibility issue that the contrast between the yellow and gray might not strong enough for some people with disability.
 
-#### redesign 3:
+#### Redesign 3:
 This is to tell a more convincing story of how many states will take the action of easing their restrictions by using side-by-side comparison.
 
 <img src="redesign 2.png" width="500" />
@@ -90,9 +90,9 @@ This is to tell a more convincing story of how many states will take the action 
 
 ##### Feedback Received:
 * Classmate 1: 
-⋅⋅* I prefer this one than the redesign 2 because the contrast between two pics makes me get the estimation more quickly.
+⋅⋅⋅I prefer this one than the redesign 2 because the contrast between two pics makes me get the estimation more quickly.
 Classmate 2: 
-⋅⋅* I like this one most because the strongly difference between these two charts can help me think the story behind and I can intuitively realize that the a lot of states is planning to easing restrictions
+⋅⋅⋅I like this one most because the strongly difference between these two charts can help me think the story behind and I can intuitively realize that the a lot of states is planning to easing restrictions
 
 
 ##### Feedback Received:
