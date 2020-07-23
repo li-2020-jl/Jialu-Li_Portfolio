@@ -15,9 +15,7 @@ I picked this article because the chart is very unique. It is a combination of t
 States are easing the COVID-19 restrictions and the outcome of the easing restrictions is unpredictable.
 
 #### Chart chosen: 
-![Chart Screen Shot](original chart.jpg)
-<img src="original chart.jpg" width="800" />
-<iframe id="google_osd_static_frame_7720028704262" name="google_osd_static_frame" style="display: none; width: 300px; height: 200px;"></iframe>
+<img src="original chart.jpg" width="300" />
 
 #### Chart's Message:
 The chart represents detailed facutal information about how each state’s plans to ease restriction (show how different restriction strengths are applied to states next to each other).
