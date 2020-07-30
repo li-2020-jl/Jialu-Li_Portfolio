@@ -7,6 +7,8 @@ For the final project, I will explain using data on how partial easing on restri
 
 ### Copies of data
 I will use the CDC dataset of cases in the U.S. as well as a travel ban information I scrape down from the news. 
+[data on reopening](covid_reopening.xlsx)
+[data on cases](raw_data.csv)
 
 #### Reference Sites
 1. For cases [Considerations for Travelers—Coronavirus in the US](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html)
