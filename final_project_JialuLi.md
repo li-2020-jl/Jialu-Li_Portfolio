@@ -51,9 +51,12 @@ Is there anything you wish to see but not in the digram?
 
 * Findings
   * Can use diagrams for explainging the context. 
+  * Both restriction and cases are using the same map diagram, it can cause confusion.
+  * Maybe not sure if the map chart works when showing trend, because it seems like cases are getting worse.
 
 
 * Changes for next week to address the issues identified:
-  * Use a map chart during each changing point of the restriction status (e.g. use map chart to show how many states are practicing restriction and how are not; use map chart to show how many states are reopening and how many are not)
+  * Use a map chart chart only to explain the context (at the begining and end of the story)
+ 
 
 
