@@ -22,6 +22,14 @@ I will generate the charts in Flourish studio and polish the design in Figma, th
 ##### Rough Sketch of the Storytboard
 <img src="finalproject rough sketch.jpg" width="800" />
 
+##### Refined Sketch of the Storytboard
+<img src="final sketch_1.png" width="800" />
+<img src="final sketch_2.png" width="800" />
+<img src="final sketch_3.png" width="800" />
+<img src="final sketch_4.png" width="800" />
+<img src="final sketch_5.png" width="800" />
+<img src="final sketch_6.png" width="800" />
+
 
 ### User research & planned project revisions for next week based on feedback
 #### User-research Protocol 
