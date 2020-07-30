@@ -24,22 +24,22 @@ I will generate the charts in Flourish studio and polish the design in Figma, th
 
 
 ### User research & planned project revisions for next week based on feedback
-#### user-research protocol 
-a. the target audience： My targeted users are those who have a concern about the pandemic and those who wish to put a pause on the raising cases.
+#### User-research Protocol 
+1. the target audience： My targeted users are those who have a concern about the pandemic and those who wish to put a pause on the raising cases.
 User needs:
 * Find out trends of the pandemic and know when to get prepared for case surge.
 * Find out effective ways to stop the spreading.
 * Know the reason why cases are increasing
 
-b. My approach to identifying representative individuals to interview 
+2. My approach to identifying representative individuals to interview 
 I plan to find people around me who meet the characteristics of the targeted users to conduct user testing. 
 
-c. your interview script： 
+3. your interview script： 
 
 Hello, I am a student working on a data storytelling project about the impact of the partial COVID-19 restriction on the entire country. I hope to get some input from you by showing you this storyboard of my story. Things I hope to find out are: 
 Is the diagram confusing for you?
 Is the diagram strong prove for my story statement?
 Is there anything you wish to see but not in the digram?
 
-d. Findings
-e. changes for next week to address the issues identified:
+4. Findings
+5. changes for next week to address the issues identified:
