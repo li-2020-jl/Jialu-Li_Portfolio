@@ -42,4 +42,8 @@ Is the diagram strong prove for my story statement?
 Is there anything you wish to see but not in the digram?
 
 * Findings
+  * Can use diagrams for explainging the context. 
+
+
 * changes for next week to address the issues identified:
+  * Use a map chart during each changing point of the restriction status (e.g. use map chart to show how many states are practicing restriction and how are not; use map chart to show how many states are reopening and how many are not)
