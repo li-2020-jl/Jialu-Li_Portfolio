@@ -4,9 +4,10 @@ For the final project I will explain using data how traveling may effect cases i
 ### Copies of data
 I will use CDC dataset of cases in the U.S. as well as travel ban information I scrape down from the news. 
 
+### Method I'll be using to present your story (Shorthand or other)
+I will generate the charts in Flourish studio and polish the design in Figma, then present the story using Shorthand.
 
+### Storyboards
+1. 
 
-
-Method you'll be using to present your story (Shorthand or other)
-Wireframes / storyboards
-User research & planned project revisions for next week based on feedback
+### User research & planned project revisions for next week based on feedback
