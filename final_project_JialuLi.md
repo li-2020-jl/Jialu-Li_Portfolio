@@ -17,7 +17,7 @@ I will use the CDC dataset of cases in the U.S. as well as a travel ban informat
 ### Method I'll be using to present your story (Shorthand or other)
 I will generate the charts in Flourish studio and polish the design in Figma, then present the story using Shorthand.
 
-### Storyboards
+### Story Outline
 1. How did the pandemic first look like (Use bee hive chart to show the pandemic cases of each state from the beginning of the pandemic to the first restriction was enact)
 2. How did restrictions lower the cases (description of the policy; beehive continue showing of case changes of each state until the reopening was issued)
 3. How did ease on restriction effect the cases (description of the policy and list states plan to ease the restriction; continue area line chart of cases from reopening till now)
