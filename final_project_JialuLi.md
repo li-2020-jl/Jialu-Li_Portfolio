@@ -1,3 +1,7 @@
+[Back to Home Page](/README.md)
+
+## Final Project
+
 ### Project Outline
 For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now. 
 
@@ -64,4 +68,8 @@ Is there anything you wish to see but not in the digram?
   * Show the map chart first and then show the beehive chart.
   * When showing changes, I will separate those states that have eased on restriction and those that haven't into separate rows. 
 
+
+
+
+[Back to Home Page](/README.md)
 
