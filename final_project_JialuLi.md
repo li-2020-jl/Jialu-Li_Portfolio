@@ -31,9 +31,11 @@ User needs:
 * Find out effective ways to stop the spreading.
 * Know the reason why cases are increasing
 
-b. My approach to identifying representative individuals to interview： I plan to find people around me who meet the characteristics of the targeted users to conduct user testing. 
+b. My approach to identifying representative individuals to interview 
+I plan to find people around me who meet the characteristics of the targeted users to conduct user testing. 
 
 c. your interview script： 
+
 Hello, I am a student working on a data storytelling project about the impact of the partial COVID-19 restriction on the entire country. I hope to get some input from you by showing you this storyboard of my story. Things I hope to find out are: 
 Is the diagram confusing for you?
 Is the diagram strong prove for my story statement?
