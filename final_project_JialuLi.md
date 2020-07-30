@@ -27,9 +27,9 @@ I will generate the charts in Flourish studio and polish the design in Figma, th
 #### User-research Protocol 
 1. the target audience： My targeted users are those who have a concern about the pandemic and those who wish to put a pause on the raising cases.
 User needs:
-* Find out trends of the pandemic and know when to get prepared for case surge.
-* Find out effective ways to stop the spreading.
-* Know the reason why cases are increasing
+   * Find out trends of the pandemic and know when to get prepared for case surge.
+   * Find out effective ways to stop the spreading.
+   * Know the reason why cases are increasing
 
 2. My approach to identifying representative individuals to interview 
 I plan to find people around me who meet the characteristics of the targeted users to conduct user testing. 
