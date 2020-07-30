@@ -36,7 +36,7 @@ I plan to find people around me who meet the characteristics of the targeted use
 
 3. your interview script： 
 
-Hello, I am a student working on a data storytelling project about the impact of the partial COVID-19 restriction on the entire country. I hope to get some input from you by showing you this storyboard of my story. Things I hope to find out are: 
+   Hello, I am a student working on a data storytelling project about the impact of the partial COVID-19 restriction on the entire country. I hope to get some input from you by showing you this storyboard of my story. Things I hope to find out are: 
 Is the diagram confusing for you?
 Is the diagram strong prove for my story statement?
 Is there anything you wish to see but not in the digram?
