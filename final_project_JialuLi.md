@@ -50,13 +50,16 @@ Is the diagram strong prove for my story statement?
 Is there anything you wish to see but not in the digram?
 
 * Findings
-  * Can use diagrams for explainging the context. 
-  * Both restriction and cases are using the same map diagram, it can cause confusion.
-  * Maybe not sure if the map chart works when showing trend, because it seems like cases are getting worse.
+  * Can use diagrams for explaining the context. 
+  * Both restriction and cases are using the same map diagram, it can be confusing.
+  * Maybe not sure if the map chart works when showing a trend because it seems like cases are getting worse.
+  * Beehive chart may be too complex for the viewers.
+  * Concern of the difficulty on cleaning the data
 
 
 * Changes for next week to address the issues identified:
-  * Use a map chart chart only to explain the context (at the begining and end of the story)
- 
+  * Use different color sets on the map chart for restriction and cases.
+  * Show the map chart first and then show the beehive chart.
+  * When showing changes, I will separate those states that have eased on restriction and those that haven't into separate rows. 
 
 
