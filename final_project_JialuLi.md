@@ -64,6 +64,7 @@ Is there anything you wish to see but not in the digram?
   * Maybe not sure if the map chart works when showing a trend because it seems like cases are getting worse.
   * Beehive chart may be too complex for the viewers.
   * Concern of the difficulty on cleaning the data
+  * Clear storyline but no call of action
 
 
 * Changes for next week to address the issues identified:
