@@ -40,9 +40,10 @@ User needs:
   * Know the reason why cases are increasing
 
 * My approach to identifying representative individuals to interview 
-I plan to find people around me who meet the characteristics of the targeted users to conduct user testing. 
+  
+  I plan to find people around me who meet the characteristics of the targeted users to conduct user testing. 
 
-* your interview script： 
+* Interview Script： 
 
    Hello, I am a student working on a data storytelling project about the impact of the partial COVID-19 restriction on the entire country. I hope to get some input from you by showing you this storyboard of my story. Things I hope to find out are: 
 Is the diagram confusing for you?
@@ -50,6 +51,7 @@ Is the diagram strong prove for my story statement?
 Is there anything you wish to see but not in the digram?
 
 * Findings
+  I interviewed one of my friends and two other classmates who meets the characteristics of my targeted user. I told my story using the refined sketch storyboard and the feedbacks received is mostly positive. Some highlighted feedback that I received more than once are:
   * Can use diagrams for explaining the context. 
   * Both restriction and cases are using the same map diagram, it can be confusing.
   * Maybe not sure if the map chart works when showing a trend because it seems like cases are getting worse.
