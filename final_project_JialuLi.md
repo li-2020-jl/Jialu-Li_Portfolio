@@ -62,14 +62,15 @@ Is there anything you wish to see but not in the digram?
   * Can use diagrams for explaining the context. 
   * Both restriction and cases are using the same map diagram, it can be confusing.
   * Maybe not sure if the map chart works when showing a trend because it seems like cases are getting worse.
-  * Beehive chart may be too complex for the viewers.
-  * Concern of the difficulty on cleaning the data
-  * Clear storyline but no call of action
+  * Beehive chart showing all the states may be too complex for the viewers.
+  * Concern of the difficulty on cleaning the data.
+  * Clear storyline but no call of action.
 
 
 * Changes for next week to address the issues identified:
   * Use different color sets on the map chart for restriction and cases.
   * Show the map chart first and then show the beehive chart.
+  * Select only a few state to show for reducing the complexity of the chart.
   * When showing changes, I will separate those states that have eased on restriction and those that haven't into separate rows. 
 
 
