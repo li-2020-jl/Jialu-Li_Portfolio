@@ -30,7 +30,7 @@ I will generate the charts in Flourish studio and polish the design in Figma, th
 4. Conclusion: even though ease on restriction only was enacted in some states but it has an effect on the overall country.
 
 ##### Rough Sketch of the Storytboard
-<img src="finalproject rough sketch.jpg" width="800" />
+<img src="finalproject rough sketch.jpg" width="400" />
 
 ##### Refined Sketch of the Storytboard
 <img src="final sketch_1.png" width="800" />
@@ -73,6 +73,7 @@ Is there anything you wish to see but not in the digram?
 * Changes for next week to address the issues identified:
   * Select only a few state to show for reducing the complexity of the chart.
     * Investigate into the state difference and restriction policy difference in details.
+    * Only select and compare the West Coast States
   * Use different color sets on the map chart for restriction and cases.
   * Show the map chart first and then show the beehive chart.
   * When showing changes, I will separate those states that have eased on restriction and those that haven't into separate rows. 
