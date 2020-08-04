@@ -13,8 +13,11 @@ I will use the CDC dataset of cases in the U.S. as well as a travel ban informat
 
 #### Reference Sites
 1. For cases [Considerations for Travelers—Coronavirus in the US](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html)
-2. For restriction policies [Travel Restrictions During COVID-19: 50-State Resources](https://www.justia.com/covid-19/50-state-covid-19-resources/travel-restrictions-during-covid-19-50-state-resources/)
-3. For restriction policies [America begins easing restrictions](https://www.economist.com/united-states/2020/04/23/america-begins-easing-restrictions) (I am referring this article from Assignment 3 & 4, but the data from this article only contribute a limited proportion of this final project.)
+2. For restriction policies 
+   * [Travel Restrictions During COVID-19: 50-State Resources](https://www.justia.com/covid-19/50-state-covid-19-resources/travel-restrictions-during-covid-19-50-state-resources/)
+   * [America begins easing restrictions](https://www.economist.com/united-states/2020/04/23/america-begins-easing-restrictions) (I am referring this article from Assignment 3 & 4, but the data from this article only contribute a limited proportion of this final project.)
+   * [Northeast: Coronavirus-Related Restrictions By State](https://www.npr.org/2020/05/01/847331283/northeast-coronavirus-related-restrictions-by-state)
+   * [West: Coronavirus-Related Restrictions By State](https://www.npr.org/2020/05/01/847416108/west-coronavirus-related-restrictions-by-state)
 
 
 ### Method I'll be using to present your story (Shorthand or other)
