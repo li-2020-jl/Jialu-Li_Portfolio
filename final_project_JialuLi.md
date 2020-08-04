@@ -3,7 +3,8 @@
 # Final Project
 
 ### Project Outline
-For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now. 
+<span style="color:gray">some *For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now. 
+* text</span>
 
 ### Copies of data
 I will use the CDC dataset of cases in the U.S. as well as a travel ban information I scrape down from the news. 
@@ -73,7 +74,7 @@ Is there anything you wish to see but not in the digram?
 * Changes for next week to address the issues identified:
   * Select only a few state to show for reducing the complexity of the chart.
     * Investigate into the state difference and restriction policy difference in details.
-    * Only select and compare the West Coast States
+    * Only select and compare the North Eastern States
   * Use different color sets on the map chart for restriction and cases.
   * Show the map chart first and then show the beehive chart.
   * When showing changes, I will separate those states that have eased on restriction and those that haven't into separate rows. 
