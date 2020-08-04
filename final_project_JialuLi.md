@@ -21,6 +21,9 @@ I will use the CDC dataset of cases in the U.S. as well as a travel ban informat
    * [America begins easing restrictions](https://www.economist.com/united-states/2020/04/23/america-begins-easing-restrictions) (I am referring this article from Assignment 3 & 4, but the data from this article only contribute a limited proportion of this final project.)
    * [Northeast: Coronavirus-Related Restrictions By State](https://www.npr.org/2020/05/01/847331283/northeast-coronavirus-related-restrictions-by-state)
    * [West: Coronavirus-Related Restrictions By State](https://www.npr.org/2020/05/01/847416108/west-coronavirus-related-restrictions-by-state)
+   * [ "Plan for Pennsylvania" ](https://www.governor.pa.gov/process-to-reopen-pennsylvania/)
+   * [Governor Murphy Unveils Multi-Stage Approach to Execute a Responsible and Strategic Restart of New Jersey’s Economy](https://nj.gov/governor/news/news/562020/approved/20200518a.shtml)
+   * [Governor Hogan Introduces Safe, Gradual, and Effective ‘Maryland Strong: Roadmap to Recovery’](https://governor.maryland.gov/2020/04/24/governor-hogan-introduces-safe-gradual-and-effective-maryland-strong-roadmap-to-recovery/)
 
 
 ### Method I'll be using to present your story (Shorthand or other)
