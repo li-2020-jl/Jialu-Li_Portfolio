@@ -3,6 +3,9 @@
 # Final Project
 
 ### Project Outline
+I hope to show how a strictly restricted state's cases can be effected by its neighbor with loss restriction.Furthermore, with closer investgation I hope to learn way this issue appears and suggest people who hopes to stopthe virus from spreading with helpful advices.
+
+
 <span style="color:gray"> For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now. </span>
 
 ### Copies of data
