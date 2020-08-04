@@ -3,7 +3,7 @@
 # Final Project
 
 ### Project Outline
-I hope to show how a strictly restricted state's cases can be affected by its neighbor with loss restriction. Furthermore, with the closer investigation, I hope to learn why this phenomenon appears and suggest people who hope to stop the virus from spreading with helpful advice.
+I hope to show how a strictly restricted state's cases can be affected by its neighbor with easier restrictions. Furthermore, I hope to provide suggested reasons for this phenomenon for people who hope to stop the virus from spreading.
 
 OLD VERSION: 
 <span style="color:gray"> For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now. </span>
@@ -90,13 +90,11 @@ Is there anything you wish to see but not in the digram?
 
 * Changes for next week to address the issues identified:
   * Select only a few state to show for reducing the complexity of the chart.
-    * Investigate into the state difference and restriction policy difference in details.
-    * Only select and compare the North Eastern States
-  * Use different color sets on the map chart for restriction and cases.
-  * Show the map chart first and then show the beehive chart.
-  * When showing changes, I will separate those states that have eased on restriction and those that haven't into separate rows. 
-
-
+    * Investigate into the state difference and restriction policy difference in detail.
+    * Only select and compare the North Eastern States to a neighbor state of this region (Maryland vs. Pennslyvania, New Jersey, New York)
+  * Instead of red and and blue that are representative for political parties I would use yellow and blue. 
+  * I want to keep the map just for aesthetic purpose.
+  * I would investigate further to come up with a hypothesis of the reason why increased cases appear in certain states.
 
 
 [Back to Home Page](/README.md)
