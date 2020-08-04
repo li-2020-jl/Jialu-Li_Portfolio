@@ -3,8 +3,7 @@
 # Final Project
 
 ### Project Outline
-<span style="color:gray">some *For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now. 
-* text</span>
+<span style="color:gray">some *For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now.* text</span>
 
 ### Copies of data
 I will use the CDC dataset of cases in the U.S. as well as a travel ban information I scrape down from the news. 
