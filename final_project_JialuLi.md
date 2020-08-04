@@ -68,9 +68,10 @@ Is there anything you wish to see but not in the digram?
 
 
 * Changes for next week to address the issues identified:
+  * Select only a few state to show for reducing the complexity of the chart.
+    * Investigate into the state difference and restriction policy difference in details.
   * Use different color sets on the map chart for restriction and cases.
   * Show the map chart first and then show the beehive chart.
-  * Select only a few state to show for reducing the complexity of the chart.
   * When showing changes, I will separate those states that have eased on restriction and those that haven't into separate rows. 
 
 
