@@ -3,7 +3,7 @@
 # Final Project
 
 ### Project Outline
-I hope to show why the government's restricted plan should be followe with compliance.
+I hope to show why the government's restricted plan should be followed by compliance. More importantly, I hope to demonstrate that case increase in easier restriction state is likely to affect the cases in its neighbors.
 
 OLD VERSION: 
 <span style="color:gray"> For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now. </span>
@@ -35,11 +35,17 @@ I will use the CDC dataset of cases in the U.S. as well as a travel ban informat
 I will generate the charts in Flourish studio and polish the design in Figma, then present the story using Shorthand.
 
 ### Story Outline
-1. The North Eastern States before reopening
-2. The North Eastern States reopening plan breakdown
-3. The North Eastern States after reopening
-4. The possible reason for the phenomenon
-5. Conclusion
+
+Updated VERSION:
+1. Introduce the demographic location of the 4 selected states and explain that Pennsylvania, New York, and New Jersey along with other Nort Eastern states are working together on making plans for reopening. Current stage: show the total number comparison bar chart.
+2. Introduce the timeline state by state. Explain that except for the New York States, all of the states neighboring Pennsylvania has reopened.
+3. Show trend chart (mention that New York and New Jersey still have higher total cases). Demonstrate that both New York and New Jersey have a decreasing trend to new cases, but PA and MD are experiencing an increase. 
+4. Show the Policy Actions chart and explain that the four states almost have similarly strict restrictions in place. Furthermore, MD even has the strictest rule comparing the rest of the states. 
+5. Bring up my hypothesis: 
+   * Traveler: Even those there it is recommended, Pennsylvania doesn't have a mandatory traveler quarantine rule for the traveler. This may be a reason that Pennslyvania is experiencing a case increase.
+   * People not complying with the rules. On July 14th MD mayor Hogan directed local leaders to better enforce public safety requirements in bars and restaurants saying state officials have connected an increasing number of cases to non-compliance.
+5. Conclusion:
+   * Comply with the restrictions even if they are not strictly enforced.
 
 
 OLD VERSION:
@@ -96,7 +102,7 @@ Is there anything you wish to see but not in the digram?
 * Changes for next week to address the issues identified:
   * Select only a few state to show for reducing the complexity of the chart.
     * Investigate into the state difference and restriction policy difference in detail.
-    * Only select and compare the North Eastern States to a neighbor state of this region (Maryland vs. Pennslyvania, New Jersey, New York)
+    * Only select and compare within the North Eastern States and with a neighboring state (Pennslyvania vs. Maryland vs. New Jersey vs. New York)
   * Instead of red and and blue that are representative for political parties I would use yellow and blue. 
   * I want to keep the map just for aesthetic purpose.
   * I would investigate further to come up with a hypothesis of the reason why increased cases appear in certain states.
