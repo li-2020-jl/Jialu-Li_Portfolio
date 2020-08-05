@@ -3,7 +3,7 @@
 # Final Project
 
 ### Project Outline
-I hope to show why the government's restricted plan should be followed by compliance. More importantly, I hope to demonstrate that case increase in easier restriction state is likely to affect the cases in its neighbors.
+I hope to show why the government's restricted plan should be followed with compliance. More importantly, I hope to demonstrate that case increase in easier restriction state is likely to affect the cases in its neighbors.
 
 OLD VERSION: 
 <span style="color:gray"> For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now. </span>
