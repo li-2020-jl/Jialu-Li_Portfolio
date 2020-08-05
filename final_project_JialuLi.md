@@ -13,11 +13,11 @@ I will use the CDC dataset of cases in the U.S. as well as a travel ban informat
 
 * [data on reopening](covid_reopening.xlsx)
 * [data on cases](raw_data.csv)
-* [New York State New Case Trend]
-* [New Jersey New Case Trend]
-* [Maryland New Case Trend]
-* [Pennsylvania New Case Trend]
-* [Total Cases of the 4 States August 4 2020]
+* [New York State New Case Trend](new_case_trends__new_york.csv)
+* [New Jersey New Case Trend](new_case_trends__new_jersey.csv)
+* [Maryland New Case Trend](new_case_trends__maryland.csv)
+* [Pennsylvania New Case Trend](new_case_trends__pennsylvania.csv)
+* [Total Cases of the 4 States August 4 2020](US_MAP_DATA.csv)
 
 #### Reference Sites
 1. For cases [Considerations for Travelers—Coronavirus in the US](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html)
