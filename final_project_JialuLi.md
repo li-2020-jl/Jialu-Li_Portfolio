@@ -62,12 +62,12 @@ OLD VERSION:
 ##### Refined Sketch of the Storytboard
 
 OLD VERSION:
-<img src="final sketch_1.png" width="800" />
-<img src="final sketch_2.png" width="800" />
-<img src="final sketch_3.png" width="800" />
-<img src="final sketch_4.png" width="800" />
-<img src="final skecth_5.png" width="800" />
-<img src="final sketch_6.png" width="800" />
+<img src="final sketch_1.png" width="400" />
+<img src="final sketch_2.png" width="400" />
+<img src="final sketch_3.png" width="400" />
+<img src="final sketch_4.png" width="400" />
+<img src="final skecth_5.png" width="400" />
+<img src="final sketch_6.png" width="400" />
 
 
 ### User research & planned project revisions for next week based on feedback
