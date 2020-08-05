@@ -49,7 +49,8 @@ Updated VERSION:
 
 
 OLD VERSION:
-<span style="color:gray"> 1. How did the pandemic first look like (Use bee hive chart to show the pandemic cases of each state from the beginning of the pandemic to the first restriction was enact)
+<span style="color:gray"> 
+1. How did the pandemic first look like (Use bee hive chart to show the pandemic cases of each state from the beginning of the pandemic to the first restriction was enact)
 2. How did restrictions lower the cases (description of the policy; beehive continue showing of case changes of each state until the reopening was issued)
 3. How did ease on restriction effect the cases (description of the policy and list states plan to ease the restriction; continue area line chart of cases from reopening till now)
 4. Conclusion: even though ease on restriction only was enacted in some states but it has an effect on the overall country.</span>
