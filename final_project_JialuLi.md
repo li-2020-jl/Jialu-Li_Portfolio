@@ -57,16 +57,25 @@ OLD VERSION:
 ##### Rough Sketch of the Storytboard
 
 OLD VERSION:
+
+
 <img src="finalproject rough sketch.jpg" width="400" />
 
 ##### Refined Sketch of the Storytboard
 
 OLD VERSION:
+
+
 <img src="final sketch_1.png" width="400" />
+
 <img src="final sketch_2.png" width="400" />
+
 <img src="final sketch_3.png" width="400" />
+
 <img src="final sketch_4.png" width="400" />
+
 <img src="final skecth_5.png" width="400" />
+
 <img src="final sketch_6.png" width="400" />
 
 
