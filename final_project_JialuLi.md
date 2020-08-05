@@ -3,7 +3,7 @@
 # Final Project
 
 ### Project Outline
-I hope to show how a strictly restricted state's cases can be affected by its neighbor with easier restrictions. Furthermore, I hope to provide suggested reasons for this phenomenon for people who hope to stop the virus from spreading.
+I hope to show why the government's restricted plan should be followe with compliance.
 
 OLD VERSION: 
 <span style="color:gray"> For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now. </span>
@@ -13,6 +13,11 @@ I will use the CDC dataset of cases in the U.S. as well as a travel ban informat
 
 * [data on reopening](covid_reopening.xlsx)
 * [data on cases](raw_data.csv)
+* [New York State New Case Trend]
+* [New Jersey New Case Trend]
+* [Maryland New Case Trend]
+* [Pennsylvania New Case Trend]
+* [Total Cases of the 4 States August 4 2020]
 
 #### Reference Sites
 1. For cases [Considerations for Travelers—Coronavirus in the US](https://www.cdc.gov/coronavirus/2019-ncov/travelers/travel-in-the-us.html)
