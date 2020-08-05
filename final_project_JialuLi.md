@@ -29,6 +29,7 @@ I will use the CDC dataset of cases in the U.S. as well as a travel ban informat
    * [ "Plan for Pennsylvania" ](https://www.governor.pa.gov/process-to-reopen-pennsylvania/)
    * [Governor Murphy Unveils Multi-Stage Approach to Execute a Responsible and Strategic Restart of New Jersey’s Economy](https://nj.gov/governor/news/news/562020/approved/20200518a.shtml)
    * [Governor Hogan Introduces Safe, Gradual, and Effective ‘Maryland Strong: Roadmap to Recovery’](https://governor.maryland.gov/2020/04/24/governor-hogan-introduces-safe-gradual-and-effective-maryland-strong-roadmap-to-recovery/)
+   * [How Coronavirus Cases Have Risen Since States Reopened](https://www.nytimes.com/interactive/2020/07/09/us/coronavirus-cases-reopening-trends.html)
 
 
 ### Method I'll be using to present your story (Shorthand or other)
