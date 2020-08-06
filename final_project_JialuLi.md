@@ -125,12 +125,12 @@ Is there anything you wish to see but not in the digram?
 
 
 # Charts
-<img src="Restriction in Detail.png" width="400" />
+<img src="Restriction in Detail.png" width="800" />
 <img src="overall view.png" width="400" />
-<img src="timeline.png" width="400" />
-<img src="Total cases compare.png" width="400" />
-<img src="trend MD PA.png" width="400" />
-<img src="Trend NJ NY.png" width="400" />
+<img src="timeline.png" width="1000" />
+<img src="Total cases compare.png" width="600" />
+<img src="trend MD PA.png" width="600" />
+<img src="Trend NJ NY.png" width="600" />
 
 [Back to Home Page](/README.md)
 
