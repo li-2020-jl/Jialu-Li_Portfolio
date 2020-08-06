@@ -1,5 +1,10 @@
 [Back to Home Page](/README.md)
 
+# Link to the Final Presentation Shorhand Slides
+
+https://preview.shorthand.com/TiE9KBMmkb5bs8HE
+
+
 # Final Project
 
 ### Project Outline
@@ -117,6 +122,9 @@ Is there anything you wish to see but not in the digram?
   * Instead of red and and blue that are representative for political parties I would use yellow and blue. 
   * I want to keep the map just for aesthetic purpose.
   * I would investigate further to come up with a hypothesis of the reason why increased cases appear in certain states.
+
+
+# Charts
 
 
 [Back to Home Page](/README.md)
