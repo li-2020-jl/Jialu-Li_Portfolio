@@ -8,9 +8,10 @@
 # Final Project
 
 ### Project Outline
+UPDATED VERSION (Final Part II): 
 I hope to show why the government's restricted plan should be followed with compliance. More importantly, I hope to demonstrate that case increase in easier restriction state is likely to affect the cases in its neighbors.
 
-OLD VERSION: 
+OLD VERSION (Final Part I): 
 <span style="color:gray"> For the final project, I will explain using data on how partial easing on restriction may affect the entire country in the U.S. I will use the data when the pandemic just started, after stay-at-home order, after reopening was ordered, and cases now. </span>
 
 ### Copies of data
@@ -42,7 +43,7 @@ I will generate the charts in Flourish studio and polish the design in Figma, th
 
 ### Story Outline
 
-Updated VERSION:
+UPDATED VERSION (Final Part II): 
 1. Introduce the demographic location of the 4 selected states and explain that Pennsylvania, New York, and New Jersey along with other Nort Eastern states are working together on making plans for reopening. Current stage: show the total number comparison bar chart.
 2. Introduce the timeline state by state. Explain that except for the New York States, all of the states neighboring Pennsylvania has reopened.
 3. Show trend chart (mention that New York and New Jersey still have higher total cases). Demonstrate that both New York and New Jersey have a decreasing trend to new cases, but PA and MD are experiencing an increase. 
@@ -54,7 +55,7 @@ Updated VERSION:
    * Comply with the restrictions even if they are not strictly enforced.
 
 
-OLD VERSION:
+OLD VERSION (Final Part I): 
 <span style="color:gray"> 
 1. How did the pandemic first look like (Use bee hive chart to show the pandemic cases of each state from the beginning of the pandemic to the first restriction was enact)
 2. How did restrictions lower the cases (description of the policy; beehive continue showing of case changes of each state until the reopening was issued)
@@ -63,14 +64,14 @@ OLD VERSION:
 
 ##### Rough Sketch of the Storytboard
 
-OLD VERSION:
+OLD VERSION (Final Part I): 
 
 
 <img src="finalproject rough sketch.jpg" width="400" />
 
 ##### Refined Sketch of the Storytboard
 
-OLD VERSION:
+OLD VERSION (Final Part I): 
 
 
 <img src="final sketch_1.png" width="400" />
