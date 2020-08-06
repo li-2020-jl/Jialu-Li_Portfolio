@@ -2,7 +2,7 @@
 
 # Link to the Final Presentation Shorhand Slides
 
-https://preview.shorthand.com/TiE9KBMmkb5bs8HE
+[Final Presentation](https://preview.shorthand.com/TiE9KBMmkb5bs8HE)
 
 
 # Final Project
