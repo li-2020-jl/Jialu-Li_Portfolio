@@ -126,6 +126,11 @@ Is there anything you wish to see but not in the digram?
   * I want to keep the map just for aesthetic purpose.
   * I would investigate further to come up with a hypothesis of the reason why increased cases appear in certain states.
 
+# Summary
+
+In this project, I made many fails assumptions at the beginning stage. For example, I falsely assumed that case increase will appear in most of the states after reopening by only looking at the data of 1-2 states. I also assumed states are making reopening plans individually, whereas I later found out that some regions are planning together. I also underestimated the time needed to clean up those data. I spent much time on summing, reordering, and filtering numbers. For the next time, I will sketch my storyboard with real data.
+
+
 
 # Charts
 <img src="Restriction in Detail.png" width="800" />
